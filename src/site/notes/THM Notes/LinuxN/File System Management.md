@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thm-notes/linux-n/file-system-management/","title":"File System Management - Linux","tags":["linux"]}
+{"Section":3.8,"Status":"Complete","dg-publish":true,"title":"File System Management - Linux","tags":["linux"],"permalink":"/thm-notes/linux-n/file-system-management/","dgPassFrontmatter":true}
 ---
 
 # NOTES
