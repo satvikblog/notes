@@ -1,5 +1,5 @@
 ---
-{"Section":5.1,"Status":"Complete","title":"Linux Security","dg-publish":true,"tags":["linux"],"permalink":"/thm-notes/linux-n/linux-security/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/thm-notes/linux-n/linux-security/","title":"Linux Security","tags":["linux"]}
 ---
 
 # NOTES
