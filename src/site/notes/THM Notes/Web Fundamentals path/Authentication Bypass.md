@@ -1,5 +1,5 @@
 ---
-{"title":"Authentication Bypass - THM Walkthrough","date":"2024-06-03 15:50:32","tags":["web"],"categories":["cybersecurity","THM","web"],"cover":"https://tryhackme-images.s3.amazonaws.com/room-icons/098ee61b8842b7e6fc27e9eea9d7e1dc.png","description":["Learn the various ways of discovering subdomains to expand your attack surface of a target."],"dg-publish":true,"walkthrough":"https://blog.satvik.live/post/THM%2FWEB%2FAuthentication-Bypass-THM-Walkthrough","room link":"https://tryhackme.com/r/room/authenticationbypass","permalink":"/thm-notes/web-fundamentals-path/authentication-bypass/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/thm-notes/web-fundamentals-path/authentication-bypass/","title":"Authentication Bypass - THM Walkthrough","tags":["web"]}
 ---
 
 <a href="https://blog.satvik.live/post/THM%2FWEB%2FAuthentication-Bypass-THM-Walkthrough" style="text-decoration:none;">
