@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thm-notes/web-fundamentals-path/sub-domain-enumeration/","title":"Sub Domain Enumeration - THM Walkthrough","tags":["web"]}
+{"title":"Sub Domain Enumeration - THM Walkthrough","date":"2024-05-28 18:15:16","tags":["web"],"categories":["cybersecurity","THM","web"],"cover":"https://tryhackme-images.s3.amazonaws.com/room-icons/609f307f6fa5f1f7f39d50154d0d1db3.png","description":["Learn the various ways of discovering subdomains to expand your attack surface of a target."],"dg-publish":true,"roomlink":"https://tryhackme.com/r/room/subdomainenumeration","walkthrough":"https://blog.satvik.live/post/THM%2FWEB%2FSub-Domain-Enumeration-THM-Walkthrough","permalink":"/thm-notes/web-fundamentals-path/sub-domain-enumeration/","dgPassFrontmatter":true}
 ---
 
 ### Subdomain Enumeration Notes
