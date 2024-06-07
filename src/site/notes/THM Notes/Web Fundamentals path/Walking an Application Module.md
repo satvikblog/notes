@@ -1,5 +1,5 @@
 ---
-{"title":"Walking an Application - THM","date":"2024-05-25 15:05:07","tags":["web"],"categories":["cybersecurity","THM","web"],"cover":"https://tryhackme-images.s3.amazonaws.com/room-icons/6c8d2a41e835c68b049773bb4c30d5d6.svg","description":[" walk an application room walthrough on TryHackMe in web fundamentals path"],"keywords":" thm , walkthrough , tryhackme , cybersecurity , hacking , web , pentesting , penetration testing , ethical hacking","dg-publish":true,"roomlink":"https://tryhackme.com/r/room/walkinganapplication","walkthrough":"https://blog.satvik.live/post/THM%2FWEB%2FWalking-an-Application-THM","permalink":"/thm-notes/web-fundamentals-path/walking-an-application-module/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/thm-notes/web-fundamentals-path/walking-an-application-module/","title":"Walking an Application - THM","tags":["web"]}
 ---
 
 ### In-Built Browser Tools: Importance and Types
