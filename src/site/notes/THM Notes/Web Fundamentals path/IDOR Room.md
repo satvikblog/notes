@@ -1,5 +1,5 @@
 ---
-{"title":"IDOR - THM Walkthrough","date":"2024-06-04 15:23:27","tags":["web"],"categories":["cybersecurity","THM","web"],"description":["Learn how to find and exploit IDOR vulnerabilities in a web application giving you access to data that you shouldn't have"],"cover":"https://tryhackme-images.s3.amazonaws.com/room-icons/92b349206a2901c187e32ad074eae45c.png","dg-publish":true,"roomlink":"https://tryhackme.com/r/room/idor","walkthrough":"https://blog.satvik.live/post/THM%2FWEB%2FIDOR-THM-Walkthrough","permalink":"/thm-notes/web-fundamentals-path/idor-room/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/thm-notes/web-fundamentals-path/idor-room/","title":"IDOR - THM Walkthrough","tags":["web"]}
 ---
 
 # Notes: TryHackMe IDOR Module
