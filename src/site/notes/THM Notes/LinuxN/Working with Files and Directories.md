@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thm-notes/linux-n/working-with-files-and-directories/","title":"Working with Files and Directories","tags":["linux"]}
+{"Section":2.4,"Status":"Complete","tags":["linux"],"title":"Working with Files and Directories","dg-publish":true,"permalink":"/thm-notes/linux-n/working-with-files-and-directories/","dgPassFrontmatter":true}
 ---
 
 # NOTES
