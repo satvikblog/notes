@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thm-notes/linux-n/contanerization/","title":"Contanerization Linux","tags":["linux"]}
+{"Section":3.9,"Status":"Complete","title":"Contanerization Linux","tags":["linux"],"dg-publish":true,"permalink":"/thm-notes/linux-n/contanerization/","dgPassFrontmatter":true}
 ---
 
 # NOTES
