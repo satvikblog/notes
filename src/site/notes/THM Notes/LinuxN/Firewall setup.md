@@ -1,5 +1,5 @@
 ---
-{"Section":5.2,"Status":"Complete","title":"Firewall Setup - Linux","tags":["linux"],"dg-publish":true,"permalink":"/thm-notes/linux-n/firewall-setup/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/thm-notes/linux-n/firewall-setup/","title":"Firewall Setup - Linux","tags":["linux"]}
 ---
 
 # NOTES
