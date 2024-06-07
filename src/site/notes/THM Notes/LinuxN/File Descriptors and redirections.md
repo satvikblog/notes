@@ -1,5 +1,5 @@
 ---
-{"Section":2.7,"Status":"Complete","title":"File Descriptors and Redirectors - Linux","dg-publish":true,"tags":["linux"],"permalink":"/thm-notes/linux-n/file-descriptors-and-redirections/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/thm-notes/linux-n/file-descriptors-and-redirections/","title":"File Descriptors and Redirectors - Linux","tags":["linux"]}
 ---
 
 # NOTES
