@@ -1,5 +1,5 @@
 ---
-{"title":"File Inclusion","dg-publish":true,"tags":["web"],"permalink":"/thm-notes/web-fundamentals-path/file-inclusion-web-hacking/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/thm-notes/web-fundamentals-path/file-inclusion-web-hacking/","title":"File Inclusion","tags":["web"]}
 ---
 
 ## NOTES
