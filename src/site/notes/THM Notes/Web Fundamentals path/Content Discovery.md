@@ -1,5 +1,5 @@
 ---
-{"title":"Content Discovery - THM Walkthrough","date":"2024-05-27 18:56:57","tags":["web"],"categories":[],"cover":"https://tryhackme-images.s3.amazonaws.com/room-icons/2f678b7457e828715a10b8bc02fd65b5.png","dg-publish":true,"roomlink":"https://tryhackme.com/r/room/contentdiscovery","walkthrough":"https://blog.satvik.live/post/THM%2FWEB%2FContent-Discovery-THM-Walkthrough","permalink":"/thm-notes/web-fundamentals-path/content-discovery/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/thm-notes/web-fundamentals-path/content-discovery/","title":"Content Discovery - THM Walkthrough","tags":["web"]}
 ---
 
 # Content Discovery Techniques and Their Importance in Web Application Security
