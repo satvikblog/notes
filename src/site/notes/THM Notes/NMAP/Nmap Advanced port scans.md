@@ -1,5 +1,5 @@
 ---
-{"title":"Nmap Advanced Port Scans","date":"2024-05-16 20:57:44","tags":["nmap","information-gathering"],"categories":["cybersecurity","THM","NMAP"],"cover":"https://tryhackme-images.s3.amazonaws.com/room-icons/4c839414544f794b63aafc6ed841848b.png","dg-publish":true,"roomlink":null,"walkthrough":"https://blog.satvik.live/post/THM%2FNMAP%2FNmap-Advanced-Port-Scans","permalink":"/thm-notes/nmap/nmap-advanced-port-scans/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/thm-notes/nmap/nmap-advanced-port-scans/","title":"Nmap Advanced Port Scans","tags":["nmap","information-gathering"]}
 ---
 
 # Nmap Port Scan Types and Commands
