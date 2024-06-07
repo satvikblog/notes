@@ -1,5 +1,5 @@
 ---
-{"Section":2.3,"Status":"Complete","tags":["linux"],"title":"Navigation Commands - Linux","dg-publish":true,"permalink":"/thm-notes/linux-n/navigation-commands/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/thm-notes/linux-n/navigation-commands/","title":"Navigation Commands - Linux","tags":["linux"]}
 ---
 
 # NOTES
