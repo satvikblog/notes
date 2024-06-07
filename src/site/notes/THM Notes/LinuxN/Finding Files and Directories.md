@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thm-notes/linux-n/finding-files-and-directories/","title":"Finding Files and Directories","tags":["linux"]}
+{"Section":2.6,"Status":"Complete","title":"Finding Files and Directories","dg-publish":true,"tags":["linux"],"permalink":"/thm-notes/linux-n/finding-files-and-directories/","dgPassFrontmatter":true}
 ---
 
 # NOTES
