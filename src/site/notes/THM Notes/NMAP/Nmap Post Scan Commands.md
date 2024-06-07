@@ -1,5 +1,5 @@
 ---
-{"title":"Nmap Post Port Scans","date":"2024-05-18 16:37:59","tags":["nmap","information-gathering"],"categories":["cybersecurity","THM","NMAP"],"feature":false,"cover":"https://techyrick.com/wp-content/uploads/2021/09/nmap.webp","dg-publish":true,"walkthrough":"https://blog.satvik.live/post/THM%2FNMAP%2FNmap-Post-Port-Scans","roomlink":"https://tryhackme.com/r/room/nmap04","permalink":"/thm-notes/nmap/nmap-post-scan-commands/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/thm-notes/nmap/nmap-post-scan-commands/","title":"Nmap Post Port Scans","tags":["nmap","information-gathering"]}
 ---
 
 # Nmap Options and Their Meanings
