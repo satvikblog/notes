@@ -1,5 +1,5 @@
 ---
-{"Section":2.91,"Status":"Complete","tags":["linux"],"title":"Managing Permissions - Linux","dg-publish":true,"permalink":"/thm-notes/linux-n/managing-permissions/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/thm-notes/linux-n/managing-permissions/","title":"Managing Permissions - Linux","tags":["linux"]}
 ---
 
 # NOTES
