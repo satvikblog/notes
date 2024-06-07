@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thm-notes/linux-n/linux-vs-solaris/","title":"Linux vs Solaris","tags":["linux"]}
+{"Section":5.4,"title":"Linux vs Solaris","dg-publish":true,"tags":["linux"],"permalink":"/thm-notes/linux-n/linux-vs-solaris/","dgPassFrontmatter":true}
 ---
 
 # NOTES
