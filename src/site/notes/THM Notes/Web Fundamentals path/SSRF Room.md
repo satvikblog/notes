@@ -1,5 +1,5 @@
 ---
-{"tags":["web"],"title":"SSRF Notes","dg-publish":true,"date":"2024-06-07 18:44:36","permalink":"/thm-notes/web-fundamentals-path/ssrf-room/","dgPassFrontmatter":true}
+{"title":"SSRF Walkthrough - THM","date":"2024-06-07 18:44:36","tags":["tryhackme","web"],"categories":["cybersecurity","THM","web"],"description":["Learn how to exploit Server-Side Request Forgery (SSRF) vulnerabilities, allowing you to access internal server resources."],"cover":"https://tryhackme-images.s3.amazonaws.com/room-icons/268e10b8ee0b53d1074b2a7fd5b1a789.png","dg-publish":true,"walkthrough":"https://blog.satvik.live/post/THM%2FWEB%2FSSRF-Walkthrough-THM","permalink":"/thm-notes/web-fundamentals-path/ssrf-room/","dgPassFrontmatter":true}
 ---
 
 ## TryHackMe SSRF Module Notes
