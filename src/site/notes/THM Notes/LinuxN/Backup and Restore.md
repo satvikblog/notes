@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thm-notes/linux-n/backup-and-restore/","title":"Backup And Restore -Linux","tags":["linux"]}
+{"Section":3.7,"Status":"Complete","title":"Backup And Restore -Linux","tags":["linux"],"dg-publish":true,"permalink":"/thm-notes/linux-n/backup-and-restore/","dgPassFrontmatter":true}
 ---
 
 ## Backup and Restore
