@@ -1,5 +1,5 @@
 ---
-{"dg-home":true,"dg-publish":true,"dg":true,"permalink":"/satvik-s-hacking-garden/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/satvik-s-hacking-garden/","tags":["gardenEntry"]}
 ---
 
 # Hacking Notes by
@@ -27,9 +27,9 @@
 | [[THM Notes/Web Fundamentals path/Content Discovery\|Content Discovery]]                                                                | Content Discovery - THM Walkthrough                              | https://blog.satvik.live/post/THM%2FWEB%2FContent-Discovery-THM-Walkthrough      |
 | [[THM Notes/Web Fundamentals path/Walking an Application Module\|Walking an Application Module]]                                        | Walking an Application - THM                                     | https://blog.satvik.live/post/THM%2FWEB%2FWalking-an-Application-THM             |
 | [[THM Notes/NMAP/Nmap Post Scan Commands\|Nmap Post Scan Commands]]                                                                     | Nmap Post Port Scans                                             | https://blog.satvik.live/post/THM%2FNMAP%2FNmap-Post-Port-Scans                  |
-| [[THM Notes/NMAP/Nmap Advanced port scans\|Nmap Advanced port scans]]                                                                   | Nmap Advanced Port Scans                                         | https://blog.satvik.live/post/THM%2FNMAP%2FNmap-Advanced-Port-Scans              |
 | [[THM Notes/NMAP/Nmap Live Host Discovery\|Nmap Live Host Discovery]]                                                                   | Live Host Discovery - NMAP                                       | https://blog.satvik.live/post/THM%2FNMAP%2FLive-Host-Discovery                   |
 | [[THM Notes/Web Fundamentals path/File Inclusion - Web Hacking\|File Inclusion - Web Hacking]]                                          | File Inclusion                                                   | \-                                                                               |
+| [[THM Notes/NMAP/Nmap Advanced port scans\|Nmap Advanced port scans]]                                                                   | Nmap Advanced Port Scans                                         | https://blog.satvik.live/post/THM%2FNMAP%2FNmap-Advanced-Port-Scans              |
 | [[THM Notes/LinuxN/Editing Files\|Editing Files]]                                                                                       | Editing Files - Linux                                            | \-                                                                               |
 | [[THM Notes/LinuxN/Contanerization\|Contanerization]]                                                                                   | Contanerization Linux                                            | \-                                                                               |
 | [[THM Notes/LinuxN/Backup and Restore\|Backup and Restore]]                                                                             | Backup And Restore -Linux                                        | \-                                                                               |
