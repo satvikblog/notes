@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thm-notes/linux-n/filter-contents/","tags":["linux"]}
+{"Section":2.8,"Status":"Complete","dg-publish":true,"tags":["linux"],"permalink":"/thm-notes/linux-n/filter-contents/","dgPassFrontmatter":true}
 ---
 
 # NOTES
