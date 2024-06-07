@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thm-notes/linux-n/linux-structure/","title":"Linux Structure","tags":["linux"]}
+{"Section":1.1,"Status":"Complete","title":"Linux Structure","dg-publish":true,"tags":["linux"],"permalink":"/thm-notes/linux-n/linux-structure/","dgPassFrontmatter":true}
 ---
 
 # NOTES
