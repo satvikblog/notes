@@ -1,5 +1,5 @@
 ---
-{"Section":1.3,"Status":"Complete","title":"Linux Shell","dg-publish":true,"tags":["linux"],"permalink":"/thm-notes/linux-n/linux-shell/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/thm-notes/linux-n/linux-shell/","title":"Linux Shell","tags":["linux"]}
 ---
 
 # NOTES
