@@ -1,5 +1,5 @@
 ---
-{"Section":1.2,"Status":"Complete","dg-publish":true,"title":"Linux Distributions","tags":["linux"],"permalink":"/thm-notes/linux-n/linux-distributions/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/thm-notes/linux-n/linux-distributions/","title":"Linux Distributions","tags":["linux"]}
 ---
 
 # NOTES
