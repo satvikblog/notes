@@ -1,5 +1,5 @@
 ---
-{"Section":2.1,"Status":"Complete","tags":["linux"],"title":"The Shell Prompt Description and Help Pages of a command - Linux","dg-publish":true,"permalink":"/thm-notes/linux-n/the-shell-prompt-description-and-help-pages-of-a-command/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/thm-notes/linux-n/the-shell-prompt-description-and-help-pages-of-a-command/","title":"The Shell Prompt Description and Help Pages of a command - Linux","tags":["linux"]}
 ---
 
 # NOTES
