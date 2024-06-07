@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thm-notes/linux-n/editing-files/","title":"Editing Files - Linux","tags":["linux"]}
+{"Section":2.5,"Status":"Complete","tags":["linux"],"dg-publish":true,"title":"Editing Files - Linux","permalink":"/thm-notes/linux-n/editing-files/","dgPassFrontmatter":true}
 ---
 
 # NOTES
