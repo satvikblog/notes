@@ -1,5 +1,5 @@
 ---
-{"title":"Live Host Discovery - NMAP","date":"2024-05-16 19:29:01","tags":["nmap","information-gathering"],"categories":["cybersecurity","THM","NMAP"],"cover":"https://techyrick.com/wp-content/uploads/2021/09/nmap.webp","feature":false,"dg-publish":true,"roomlink":"https://tryhackme.com/r/room/nmap01","walkthrough":"https://blog.satvik.live/post/THM%2FNMAP%2FLive-Host-Discovery","permalink":"/thm-notes/nmap/nmap-live-host-discovery/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/thm-notes/nmap/nmap-live-host-discovery/","title":"Live Host Discovery - NMAP","tags":["nmap","information-gathering"]}
 ---
 
 # Nmap Scan Types and Commands
