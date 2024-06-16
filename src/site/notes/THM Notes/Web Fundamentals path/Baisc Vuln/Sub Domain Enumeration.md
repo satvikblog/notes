@@ -43,7 +43,7 @@ Search for "tryhackme.com" on crt.sh and find subdomains from the certificate lo
 - Subdomain: `store.tryhackme.com`
 
 #### DNS Bruteforce
-**Description:** DNS Bruteforce involves trying numerous possible subdomains from a predefined list to discover valid subdomains. This method requires automation due to the high number of requests.
+**Description:** DNS Bruteforce involves trying numerous possible subdomains from a predefined list to discover valid subdomains. This method requires automation due to the high number of requests.&
 
 **Tools:**
 - dnsrecon
