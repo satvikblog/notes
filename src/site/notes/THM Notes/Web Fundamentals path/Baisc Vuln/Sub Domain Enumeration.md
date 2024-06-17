@@ -94,7 +94,7 @@ ffuf -w /usr/share/wordlists/SecLists/Discovery/DNS/namelist.txt -H "Host: FUZZ.
 ### Example Commands and Tools Summary
 
 - **SSL/TLS Certificates:**
-  - **Tool:** crt.sh
+  - **Tool:** crt.sh .
   - **Command:** Search for a domain on crt.sh
   
 - **Search Engines:**
