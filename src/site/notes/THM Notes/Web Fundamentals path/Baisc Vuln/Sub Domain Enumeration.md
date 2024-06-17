@@ -78,7 +78,7 @@ sublist3r -d acmeitsupport.thm
 **Description:** Some subdomains are not publically accessible via DNS but can be found by manipulating the Host header. This method automates the process using a wordlist of common subdomains.
 
 **Tools:**
-- ffuf
+- `ffuf`
 
 **Example Usage:**
 - Use ffuf to discover subdomains by manipulating the Host header.
