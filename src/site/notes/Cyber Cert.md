@@ -14,10 +14,10 @@
 
 #### Skill-based (Entry Level)
 
-| **Certification**                  | **Provider**             | **Price (INR)** | **Experience Required**               |
-|------------------------------------|--------------------------|-----------------|---------------------------------------|
-| eLearnSecurity Penetration Tester Student (ePTS) | eLearnSecurity | ₹18,000         | None                                  |
-| Offensive Security Certified Professional (OSCP) | Offensive Security | ₹99,000        | Basic knowledge of penetration testing |
+| **Certification**                                  | **Provider**       | **Price (INR)**  | **Experience Required**                               |
+| -------------------------------------------------- | ------------------ | ---------------- | ----------------------------------------------------- |
+| Offensive Security Certified Professional (OSCP)   | Offensive Security | ₹99,000          | Basic knowledge of penetration testing                |
+| Certified Penetration Tester Student (CPTS) by HTB | HTB                | 15000/- - 2500/- | Basic Knowledge of Penetration Testing and networking |
 
 #### Job-based (Advanced Level)
 
@@ -28,26 +28,32 @@
 
 #### Skill-based (Advanced Level)
 
-| **Certification**                  | **Provider**             | **Price (INR)** | **Experience Required**               |
-|------------------------------------|--------------------------|-----------------|---------------------------------------|
-| Certified Red Team Expert (CRTE)   | Pentester Academy        | ₹85,000         | 2-3 years of experience in penetration testing |
-| Offensive Security Web Expert (OSWE) | Offensive Security      | ₹1,20,000       | OSCP certification                    |
+| **Certification**                    | **Provider**       | **Price (INR)** | **Experience Required**                        |
+| ------------------------------------ | ------------------ | --------------- | ---------------------------------------------- |
+| Certified Red Team Expert (CRTE)     | Pentester Academy  | ₹85,000         | 2-3 years of experience in penetration testing |
+| Offensive Security Web Expert (OSWE) | Offensive Security | ₹1,20,000       | OSCP certification                             |
 
+--------
 ### Blue Team Certifications
 
 #### Job-based (Entry Level)
 
-| **Certification**                  | **Provider**             | **Price (INR)** | **Experience Required**               |
-|------------------------------------|--------------------------|-----------------|---------------------------------------|
-| CompTIA Security+                  | CompTIA                  | ₹35,000         | Basic IT knowledge                    |
-| GIAC Information Security Fundamentals (GISF) | GIAC      | ₹90,000         | None                                  |
+| **Certification**                             | **Provider** | **Price (INR)** | **Experience Required** |
+| --------------------------------------------- | ------------ | --------------- | ----------------------- |
+| CompTIA Security+                             | CompTIA      | ₹35,000         | Basic IT knowledge      |
+| GIAC Information Security Fundamentals (GISF) | GIAC         | ₹90,000         | None                    |
+| eCDFP                                         | INE          | ₹34,000         | None                    |
+| eCIR                                          | INE          | ₹34,000         | None                    |
+|                                               |              |                 |                         |
 
 #### Skill-based (Entry Level)
 
-| **Certification**                  | **Provider**             | **Price (INR)** | **Experience Required**               |
-|------------------------------------|--------------------------|-----------------|---------------------------------------|
-| IBM Cybersecurity Analyst Professional Certificate | IBM | ₹20,000         | None                                  |
-| Microsoft Certified: Security, Compliance, and Identity Fundamentals | Microsoft | ₹12,000 | None                                  |
+| **Certification**                                                    | **Provider** | **Price (INR)** | **Experience Required** |
+| -------------------------------------------------------------------- | ------------ | --------------- | ----------------------- |
+| IBM Cybersecurity Analyst Professional Certificate                   | IBM          | ₹20,000         | None                    |
+| Microsoft Certified: Security, Compliance, and Identity Fundamentals | Microsoft    | ₹12,000         | None                    |
+| eCDFP                                                                | INE          | ₹34,000         | None                    |
+| eCDFP                                                                | INE          | ₹34,000         | None                    |
 
 #### Job-based (Advanced Level)
 
@@ -63,6 +69,7 @@
 | GIAC Security Essentials Certification (GSEC) | GIAC       | ₹80,000         | Basic knowledge of networking         |
 | Offensive Security Certified Professional (OSCP) | Offensive Security | ₹99,000 | Basic knowledge of penetration testing |
 
+--------
 ### Cloud & DevSecOps Certifications
 
 #### Job-based (Entry Level)
@@ -93,6 +100,7 @@
 | Docker Certified Associate (DCA)   | Docker Inc.              | ₹16,000         | Basic understanding of Docker         |
 | Certified Jenkins Engineer (CJE)   | CloudBees                | ₹12,000         | Experience with Jenkins               |
 
+-----
 ### Non-Technical Cybersecurity Certifications
 
 #### Entry Level
@@ -108,5 +116,3 @@
 |------------------------------------|--------------------------|-----------------|---------------------------------------|
 | Certified Information Systems Security Professional (CISSP) | (ISC)² | ₹70,000 | 5 years of professional experience in IT security |
 | Certified Information Security Manager (CISM) | ISACA      | ₹60,000         | 5 years of experience in information security |
-
-These tables summarize various entry-level and advanced-level certifications for Red Team, Blue Team, Cloud & DevSecOps, and non-technical cybersecurity roles, along with their providers, prices in INR, and experience requirements.
