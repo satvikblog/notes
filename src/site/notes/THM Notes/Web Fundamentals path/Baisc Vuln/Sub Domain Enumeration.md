@@ -140,3 +140,5 @@ Each of these techniques provides a unique approach to discovering subdomains, l
 </a>
 ----
 [[Satvik's Hacking Garden\|Satvik's Hacking Garden]]
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fdesign%2FsjY45GoTyeORJjNAuKve2S%2FUntitled%3Fnode-id%3D1-2%26t%3DRVca3Dbt8yvLxa1J-1" allowfullscreen></iframe>
