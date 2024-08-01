@@ -5,7 +5,7 @@
 
 ---
 
-## eJPTv2 Training Notes
+## eJPTv2 Training Notes.
 
 ### 1. **Introduction to IP and MAC Addresses**
 
