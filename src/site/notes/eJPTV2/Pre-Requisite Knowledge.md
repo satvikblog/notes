@@ -126,5 +126,3 @@
 - **CIDR Notation**: Flexible IP allocation and routing notation.
 - **Subnetting**: Divides large networks into smaller subnets for better management, performance, and security.
 - **Application in Penetration Testing**: Crucial for network mapping, host discovery, and assessing network segmentation.
-
-These notes cover the foundational concepts you'll need for your eJPTv2 course. If you have any more questions or need further explanations, feel free to ask!
