@@ -17,6 +17,7 @@
 
 | File                                                                                                                                       | Title                                                            |
 | ------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------- |
+| [[What is Information Gathering\|What is Information Gathering]]                                                                        | Information Gathering                                            |
 | [[eJPTV2/Pre-Requisite Knowledge\|Pre-Requisite Knowledge]]                                                                             | Networking Recap - eJPTv2                                        |
 | [[THM Notes/Web Fundamentals path/Burp/Burpsuite -The Basics\|Burpsuite -The Basics]]                                                   | BurpSuite: The Basics- THM                                       |
 | [[THM Notes/Web Fundamentals path/Baisc Vuln/Command Injection\|Command Injection]]                                                     | Command Injection                                                |
