@@ -6,7 +6,7 @@
 
 ## Website Recon && Foot printing techniques
 
-1. Resolving Web **IP ADDRESS**
+1. **Resolving Web IP ADDRESS**
 - if we want to perform recon on any website then the first thing we can looking into is retrieving the website's `IP ADDRESS`
 - We can resolve websites IP ADDRESS by a command called 
   **`HOST`** 
@@ -15,7 +15,7 @@
   ![Pasted image 20240802210456.png](/img/user/eJPTV2/Images/Pasted%20image%2020240802210456.png)
 - If it shows more than one IP Address for a particular website , we should understand that website is using a proxy / firewall on it .
 ----
-2. **Personal Information Recon
+2. **Personal Information Recon**
 - Next thing we are gonna look at is for any emails , names , contact details of the website owners/developers
 - We can search in page contact forms , footers and header menu 
 ------
@@ -26,7 +26,7 @@
 - So that we can know some potential sensitive information of the website 
 - Sitemap.xml is a file which gives us the structure of the website like pages , menu , submenu and navigation of the site completely
 -----
-4. Browser Extensions & CLI Utilities
+4. **Browser Extensions & CLI Utilities**
 - Another interesting technique to know much more about a website like what technologies the websites are running , their versions , status , and all tech stack for that website can be retrieved through some cool browser extension called :
   - **[`Builtwith`](https://chromewebstore.google.com/detail/builtwith-technology-prof/dapjbgnjinbpoindlpdmhochffioedbn)** 
   - **[`wappanalyzer`](https://chromewebstore.google.com/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg)**
@@ -34,7 +34,7 @@
     - example usage : `whatweb satvik.live`
     - ![Pasted image 20240802221256.png](/img/user/eJPTV2/Images/Pasted%20image%2020240802221256.png)
 ---------
-5. Downloading the website Source code for Analyzing 
+5. **Downloading the website Source code for Analyzing** 
    - We can download the websites source code for analyzing it by using a tool called `HTTtrack`
      `[httrack]`(https://www.httrack.com/)
    - This will download the entire website and we can go through the source and can analyze it so that we might have chance to discover any potential vulnerabilities 
