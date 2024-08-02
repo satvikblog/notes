@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/e-jptv-2/what-is-information-gathering/","title":"Information Gathering","tags":["ejptv2","information-gathering"]}
 ---
 
--------------
+-------------- 
 - Information Gathering is also called as " **reconnaissance** "
 - In Information Gathering we have two categories
   1. **Active Information Gathering**
