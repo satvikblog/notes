@@ -126,3 +126,5 @@
 - **CIDR Notation**: Flexible IP allocation and routing notation.
 - **Subnetting**: Divides large networks into smaller subnets for better management, performance, and security.
 - **Application in Penetration Testing**: Crucial for network mapping, host discovery, and assessing network segmentation.
+----------------------
+- **Next** - [[eJPTV2/What is Information Gathering\|What is Information Gathering]]
