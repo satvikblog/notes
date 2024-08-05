@@ -17,6 +17,7 @@
 
 | File                                                                                                                                       | Title                                                            |
 | ------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------- |
+| [[eJPTV2/Active Information Gathering\|Active Information Gathering]]                                                                   | Active Information Gathering                                     |
 | [[eJPTV2/Passive Information Gathering\|Passive Information Gathering]]                                                                 | Passive Information Gathering                                    |
 | [[eJPTV2/What is Information Gathering\|What is Information Gathering]]                                                                 | Information Gathering                                            |
 | [[eJPTV2/Pre-Requisite Knowledge\|Pre-Requisite Knowledge]]                                                                             | Networking Recap - eJPTv2                                        |
