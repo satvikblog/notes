@@ -39,3 +39,56 @@
      `[httrack]`(https://www.httrack.com/)
    - This will download the entire website and we can go through the source and can analyze it so that we might have chance to discover any potential vulnerabilities 
 ------------
+# Whois Enumeration
+
+- whois is an internet protocol or an utility which is generally used enumerate the details of the particular domain name like its domain registrar info , created date , expiration date , contact details if any ...
+- ![Pasted image 20240805212442.png](/img/user/eJPTV2/Images/Pasted%20image%2020240805212442.png)
+
+- you can also use the online platforms like 
+  - [WHO.IS](https://who.is)
+  - [WHOIS.COM](https://www.whois.com/)
+-----
+# Website Recon and Footprinting using Netcraft
+
+- Netcraft is an another open-source tool or utility that basically provides the whois info , Technology stack of that website , SSL / TLS info , Any vulnerabilities etc..
+     [Netcraft](https://www.netcraft.com/)
+-----
+# DNS RECON
+
+- DNS  **reconnaissance** is used to gather the info of the particular domains DNS Server like its 
+  - A record
+  - AAAA Record
+  - MX record
+  - NS Record
+  - TXT record
+  - SRV Record 
+- We can use in build utility called `dnsrecon` in KALI LINUX 
+  Usage : `dnsrecon -d <domain_name>`
+- We can also use the site [DNS DUMPSTER](https://dnsdumpster.com)
+- ![Pasted image 20240805220402.png](/img/user/eJPTV2/Images/Pasted%20image%2020240805220402.png)
+- ![Pasted image 20240805220424.png](/img/user/eJPTV2/Images/Pasted%20image%2020240805220424.png)
+------
+# WAF with WAFw00f
+
+- WAF - Web Application Firewall
+- Using WAFw00f utility we can see whether the particular site is running behind any particular firewall or not so we can strategize our next moves accordingly 
+- ![Pasted image 20240805221418.png](/img/user/eJPTV2/Images/Pasted%20image%2020240805221418.png)
+-----
+# Subdomain Enumeration with Sublist3r
+
+- Subdomain enumeration is used to find any subdomains of a particular domain
+- you can install it by `sudo apt-get install sublist3r` on your Kali Linux
+- Usage : `sublist3r -d <domain_name`
+  ex : `sublist3r -d satvik.live`
+  ![Pasted image 20240805223253.png](/img/user/Pasted%20image%2020240805223253.png)
+  
+---
+# Google Dorking / Hacking
+
+- Google dorks are techniques to get the search results about a particular thing / website or anything in a desired way like limiting it to something explicitly
+- ex:
+  site:ine.com intitle:admin - Narrows down the search to display the pages of title ADMIN within the ine.com 
+  
+  site:*.ine.com - narrow down the search results to only of ine.com which would display all the subdomains of the ine.com
+  - You can use : [Exploit Database ](https://www.exploit-db.com/) - to see thousands of Dorks which is very useful while gathering the information 
+-----
