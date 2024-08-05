@@ -128,3 +128,4 @@
 - **Application in Penetration Testing**: Crucial for network mapping, host discovery, and assessing network segmentation.
 ----------------------
 - **Next** - [[eJPTV2/What is Information Gathering\|What is Information Gathering]]
+- **Home** - [[Satvik's Hacking Garden\|Satvik's Hacking Garden]]
