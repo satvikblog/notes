@@ -80,7 +80,7 @@
 - you can install it by `sudo apt-get install sublist3r` on your Kali Linux
 - Usage : `sublist3r -d <domain_name`
   ex : `sublist3r -d satvik.live`
-  ![Pasted image 20240805223253.png](/img/user/Pasted%20image%2020240805223253.png)
+  ![Pasted image 20240805223253.png](/img/user/eJPTV2/Images/Pasted%20image%2020240805223253.png)
   
 ---
 # Google Dorking / Hacking
@@ -92,3 +92,93 @@
   site:*.ine.com - narrow down the search results to only of ine.com which would display all the subdomains of the ine.com
   - You can use : [Exploit Database ](https://www.exploit-db.com/) - to see thousands of Dorks which is very useful while gathering the information 
 -----
+# Email Harvesting with theHarvester
+
+**theHarvester Tool: Overview and Usage**
+
+theHarvester is an open-source intelligence (OSINT) tool designed to gather information about domains and emails from various public sources. This tool is commonly used in cybersecurity for reconnaissance to gather emails, subdomains, IPs, URLs, and names from different public data sources.
+
+### Features and Capabilities of theHarvester
+
+1. **Email Harvesting**: theHarvester can gather email addresses associated with a domain from various public sources.
+2. **Subdomain Enumeration**: It can identify subdomains related to a primary domain.
+3. **IP Address Information**: theHarvester can retrieve IP addresses associated with a domain.
+4. **Employee Names**: It can find employee names associated with a company.
+5. **Public Source Integration**: theHarvester integrates with multiple data sources like search engines, PGP key servers, and more.
+
+### Examples and Syntaxes
+
+#### Basic Syntax
+
+The general syntax for using theHarvester is:
+
+```bash
+theHarvester -d <domain> -b <source>
+```
+
+#### Example 1: Email Harvesting
+
+To gather email addresses associated with a domain using Google as the source:
+
+```bash
+theHarvester -d example.com -b google
+```
+
+#### Example 2: Subdomain Enumeration
+
+To find subdomains using Bing as the source:
+
+```bash
+theHarvester -d example.com -b bing
+```
+
+#### Example 3: Using Multiple Sources
+
+To use multiple sources, list them separated by commas. Here, using Google and Bing:
+
+```bash
+theHarvester -d example.com -b google,bing
+```
+
+#### Example 4: IP Address Information
+
+To retrieve IP addresses related to the domain:
+
+```bash
+theHarvester -d example.com -b google
+```
+
+#### Example 5: Employee Names
+
+To gather employee names from LinkedIn (note that this might require additional configuration due to LinkedIn's access restrictions):
+
+```bash
+theHarvester -d example.com -b linkedin
+```
+
+#### Example 6: All Available Data Sources
+
+To use all available data sources for maximum information:
+
+```bash
+theHarvester -d example.com -b all
+```
+
+#### Example 7: Output to a File
+
+To save the output to a file for later analysis:
+
+```bash
+theHarvester -d example.com -b all -f results.txt
+```
+
+### Common Data Sources Supported by theHarvester
+
+- Google: `google`
+- Bing: `bing`
+- Yahoo: `yahoo`
+- LinkedIn: `linkedin`
+- Twitter: `twitter`
+- PGP Servers: `pgp`
+- VirusTotal: `virustotal`
+- ----
