@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/e-jptv-2/passive-information-gathering/","title":"Passive Information Gathering","tags":["ejptv2","information-gathering"]}
 ---
 
------
+------
 
 ## Website Recon && Foot printing techniques
 
