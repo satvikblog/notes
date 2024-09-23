@@ -17,6 +17,7 @@
 
 | File                                                                                                                                       | Title                                                            |
 | ------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------- |
+| [[eJPTV2/Footprinting & Scanning\|Footprinting & Scanning]]                                                                             | Footprinting & Scanning                                          |
 | [[eJPTV2/Active Information Gathering\|Active Information Gathering]]                                                                   | Active Information Gathering                                     |
 | [[eJPTV2/Passive Information Gathering\|Passive Information Gathering]]                                                                 | Passive Information Gathering                                    |
 | [[eJPTV2/What is Information Gathering\|What is Information Gathering]]                                                                 | Information Gathering                                            |
@@ -52,7 +53,6 @@
 | [[THM Notes/Web Fundamentals path/Baisc Vuln/File Inclusion - Web Hacking\|File Inclusion - Web Hacking]]                               | File Inclusion                                                   |
 | [[THM Notes/Web Fundamentals path/Baisc Vuln/SSRF Room\|SSRF Room]]                                                                     | SSRF Walkthrough - THM                                           |
 | [[THM Notes/Web Fundamentals path/Baisc Vuln/Satvik's Hacking Garden Base\|Satvik's Hacking Garden Base]]                               | \-                                                               |
-| [[Footprinting & Scanning\|Footprinting & Scanning]]                                                                                    | Footprinting & Scanning                                          |
 
 { .block-language-dataview}
 --------------------------------------------------
