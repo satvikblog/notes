@@ -33,25 +33,26 @@
 | [[THM Notes/NMAP/Nmap Live Host Discovery\|Nmap Live Host Discovery]]                                                                   | Live Host Discovery - NMAP                                       |
 | [[THM Notes/LinuxN/Backup and Restore\|Backup and Restore]]                                                                             | Backup And Restore -Linux                                        |
 | [[THM Notes/LinuxN/Contanerization\|Contanerization]]                                                                                   | Contanerization Linux                                            |
-| [[THM Notes/LinuxN/File Descriptors and redirections\|File Descriptors and redirections]]                                               | File Descriptors and Redirectors - Linux                         |
 | [[THM Notes/LinuxN/Editing Files\|Editing Files]]                                                                                       | Editing Files - Linux                                            |
+| [[THM Notes/LinuxN/File Descriptors and redirections\|File Descriptors and redirections]]                                               | File Descriptors and Redirectors - Linux                         |
 | [[THM Notes/LinuxN/File System Management\|File System Management]]                                                                     | File System Management - Linux                                   |
-| [[THM Notes/LinuxN/Finding Files and Directories\|Finding Files and Directories]]                                                       | Finding Files and Directories                                    |
 | [[THM Notes/LinuxN/Filter Contents\|Filter Contents]]                                                                                   | \-                                                               |
+| [[THM Notes/LinuxN/Finding Files and Directories\|Finding Files and Directories]]                                                       | Finding Files and Directories                                    |
 | [[THM Notes/LinuxN/Firewall setup\|Firewall setup]]                                                                                     | Firewall Setup - Linux                                           |
 | [[THM Notes/LinuxN/Linux Distributions\|Linux Distributions]]                                                                           | Linux Distributions                                              |
 | [[THM Notes/LinuxN/Linux Security\|Linux Security]]                                                                                     | Linux Security                                                   |
-| [[THM Notes/LinuxN/Linux vs Solaris\|Linux vs Solaris]]                                                                                 | Linux vs Solaris                                                 |
 | [[THM Notes/LinuxN/Linux Shell\|Linux Shell]]                                                                                           | Linux Shell                                                      |
-| [[THM Notes/LinuxN/Managing Permissions\|Managing Permissions]]                                                                         | Managing Permissions - Linux                                     |
 | [[THM Notes/LinuxN/Linux Structure\|Linux Structure]]                                                                                   | Linux Structure                                                  |
+| [[THM Notes/LinuxN/Linux vs Solaris\|Linux vs Solaris]]                                                                                 | Linux vs Solaris                                                 |
+| [[THM Notes/LinuxN/Managing Permissions\|Managing Permissions]]                                                                         | Managing Permissions - Linux                                     |
 | [[THM Notes/LinuxN/Navigation Commands\|Navigation Commands]]                                                                           | Navigation Commands - Linux                                      |
 | [[THM Notes/LinuxN/The Shell Prompt Description and Help Pages of a command\|The Shell Prompt Description and Help Pages of a command]] | The Shell Prompt Description and Help Pages of a command - Linux |
 | [[THM Notes/LinuxN/Working with Files and Directories\|Working with Files and Directories]]                                             | Working with Files and Directories                               |
 | [[THM Notes/NMAP/Nmap Advanced port scans\|Nmap Advanced port scans]]                                                                   | Nmap Advanced Port Scans                                         |
-| [[THM Notes/Web Fundamentals path/Baisc Vuln/Satvik's Hacking Garden Base\|Satvik's Hacking Garden Base]]                               | \-                                                               |
-| [[THM Notes/Web Fundamentals path/Baisc Vuln/SSRF Room\|SSRF Room]]                                                                     | SSRF Walkthrough - THM                                           |
 | [[THM Notes/Web Fundamentals path/Baisc Vuln/File Inclusion - Web Hacking\|File Inclusion - Web Hacking]]                               | File Inclusion                                                   |
+| [[THM Notes/Web Fundamentals path/Baisc Vuln/SSRF Room\|SSRF Room]]                                                                     | SSRF Walkthrough - THM                                           |
+| [[THM Notes/Web Fundamentals path/Baisc Vuln/Satvik's Hacking Garden Base\|Satvik's Hacking Garden Base]]                               | \-                                                               |
+| [[Footprinting & Scanning\|Footprinting & Scanning]]                                                                                    | Footprinting & Scanning                                          |
 
 { .block-language-dataview}
 --------------------------------------------------
