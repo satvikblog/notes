@@ -71,3 +71,8 @@ nmap -Pn -sS -f --mtu 8 <target_IP>
 - -f Stands for Fragmentation which means it will fragment the each packet that nmap is sendig to the target 
 - --mtu 8 : MTU Stands for "Minimum Transmission Unit" which will fragment each packet to 8 Bytes 
 ```
+ ```bash
+ nmap -Pn -sS -sV -p445,3389 -f --data-length 200 -D -g 53 <your gateway IP > <target IP>
+ - --data-length 200 will fix the data length and -D will enable Decoy IP which is actually your Gateway IP so that IDS Systems assume they are coming from the Router
+ -  -g 53 will specify from which port you want to send the data
+```
