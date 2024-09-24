@@ -56,3 +56,18 @@ nmap -sn -A -p- -T4 <target_IP>
 ```bash
 nmap -sS --script=<scriptname>,<scriptname> -p- -T4 <target_IP>
 ```
+----
+## Firewall Detection and IDS Evasion
+```bash
+nmap -Pn -sS -F <target_IP>
+- This will disbale host discovery and perform SYN Scan to find the ports 
+```
+```bash
+nmap -Pn -sA -p<port_numbers> <target_IP>
+- This will tell us whether that particular is behind the firewall or not . 
+```
+```bash
+nmap -Pn -sS -f --mtu 8 <target_IP>
+- -f Stands for Fragmentation which means it will fragment the each packet that nmap is sendig to the target 
+- --mtu 8 : MTU Stands for "Minimum Transmission Unit" which will fragment each packet to 8 Bytes 
+```
