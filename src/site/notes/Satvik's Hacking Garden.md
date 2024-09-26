@@ -17,6 +17,7 @@
 
 | File                                                                                                                                       | Title                                                            |
 | ------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------- |
+| [[eJPTV2/SMB-Lab\|SMB-Lab]]                                                                                                             | SMB-Enumeration Lab                                              |
 | [[eJPTV2/Footprinting & Scanning\|Footprinting & Scanning]]                                                                             | Footprinting & Scanning                                          |
 | [[eJPTV2/Active Information Gathering\|Active Information Gathering]]                                                                   | Active Information Gathering                                     |
 | [[eJPTV2/Passive Information Gathering\|Passive Information Gathering]]                                                                 | Passive Information Gathering                                    |
@@ -33,11 +34,11 @@
 | [[THM Notes/NMAP/Nmap Post Scan Commands\|Nmap Post Scan Commands]]                                                                     | Nmap Post Port Scans                                             |
 | [[THM Notes/NMAP/Nmap Live Host Discovery\|Nmap Live Host Discovery]]                                                                   | Live Host Discovery - NMAP                                       |
 | [[THM Notes/LinuxN/Backup and Restore\|Backup and Restore]]                                                                             | Backup And Restore -Linux                                        |
-| [[THM Notes/LinuxN/Editing Files\|Editing Files]]                                                                                       | Editing Files - Linux                                            |
 | [[THM Notes/LinuxN/Contanerization\|Contanerization]]                                                                                   | Contanerization Linux                                            |
-| [[THM Notes/LinuxN/File Descriptors and redirections\|File Descriptors and redirections]]                                               | File Descriptors and Redirectors - Linux                         |
+| [[THM Notes/LinuxN/Editing Files\|Editing Files]]                                                                                       | Editing Files - Linux                                            |
 | [[THM Notes/LinuxN/File System Management\|File System Management]]                                                                     | File System Management - Linux                                   |
 | [[THM Notes/LinuxN/Filter Contents\|Filter Contents]]                                                                                   | \-                                                               |
+| [[THM Notes/LinuxN/File Descriptors and redirections\|File Descriptors and redirections]]                                               | File Descriptors and Redirectors - Linux                         |
 | [[THM Notes/LinuxN/Finding Files and Directories\|Finding Files and Directories]]                                                       | Finding Files and Directories                                    |
 | [[THM Notes/LinuxN/Firewall setup\|Firewall setup]]                                                                                     | Firewall Setup - Linux                                           |
 | [[THM Notes/LinuxN/Linux Distributions\|Linux Distributions]]                                                                           | Linux Distributions                                              |
