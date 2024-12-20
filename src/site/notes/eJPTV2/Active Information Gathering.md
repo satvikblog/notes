@@ -3,6 +3,8 @@
 ---
 
 ----
+
+# by HU22CSEN0400157 : V.satvik
 # DNS Zone Transfer 
 
 + In certain cases DNS server admins may want to copy or transfer zone files from one DNS server to another. This process is known as a zone transfer.
@@ -29,7 +31,16 @@ fierce -d < domain name>
 nmap -sn 192.168.20.0/24 [ YOUR IP ADDRESS ]
 ```
 
+
+output 
+
+![Pasted image 20241220154431.png](/img/user/Pasted%20image%2020241220154431.png)
+
+![Pasted image 20241220154504.png](/img/user/Pasted%20image%2020241220154504.png)
+So these are all the devices in my local network
+
 -----
+
 
 # Port Scanning with nmap
 
@@ -93,7 +104,7 @@ nmap -sS -O --osscan-guess -p- 5.196.105.14
 -sS performs SYN scan
 --osscan-guess performs OS Detection on the site
 -p- performs port scan against all ports ( 65535 )
-
+This scan takes hours to execute 
 ```
 
 
