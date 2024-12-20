@@ -37,8 +37,10 @@ nmap -sn 192.168.20.0/24 [ YOUR IP ADDRESS ]
 
 **Port Scan**:
 ```bash
-sudo nmap -Pn 192.168.9.24 [TARGET IP]
+sudo nmap -Pn 185.199.109.153
 ```
+Output : 
+![Pasted image 20241220152135.png](/img/user/Pasted%20image%2020241220152135.png)
 **Specifying port range**:
 ```bash
 sudo nmap -p1-2600 192.168.9.24 -Pn
