@@ -110,11 +110,17 @@ This scan takes hours to execute
 
 **Aggressive Scan**
 ```bash
-sudo nmap -A 192.168.9.2 -Pn
+sudo nmap -A 192.168.9.2 -Pn -T4
 
 -A : This agressive scan will combine the Script , OS , Version scans
 -A = -sC , -sV , -O
+-Pn it will perform ping scan to evade from firewalls
+-T4 = Template 4 means it will speed of the scan
 ```
 
+output :
+
+![Pasted image 20241220154954.png](/img/user/Pasted%20image%2020241220154954.png)
+![Pasted image 20241220155009.png](/img/user/Pasted%20image%2020241220155009.png)
 -----
 **HOME** : [[Satvik's Hacking Garden\|Satvik's Hacking Garden]]
