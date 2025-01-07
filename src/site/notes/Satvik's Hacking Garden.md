@@ -17,6 +17,7 @@
 
 | File                                                                                                                                       | Title                                                            |
 | ------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------- |
+| [[eJPTV2/FTP Enumeration\|FTP Enumeration]]                                                                                             | FTP Enumeration - eJPTv2                                         |
 | [[eJPTV2/SMB-Lab\|SMB-Lab]]                                                                                                             | SMB-Enumeration Lab                                              |
 | [[eJPTV2/Footprinting & Scanning\|Footprinting & Scanning]]                                                                             | Footprinting & Scanning                                          |
 | [[eJPTV2/Active Information Gathering\|Active Information Gathering]]                                                                   | Active Information Gathering                                     |
