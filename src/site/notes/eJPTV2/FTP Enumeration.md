@@ -8,7 +8,7 @@
 
 #### **Overview**
 
-FTP (File Transfer Protocol) is a standard protocol used to transfer files between systems over a network. It operates on a client-server model, where the client initiates a connection to the server for file operations.
+FTP (File Transfer Protocol) is a standard protocol used to transfer files between systems over a network. It operates on a client-server model, where the client initiates a connection to the server for file operations. 
 
 In this lab, we will explore **FTP enumeration** using the **Metasploit Framework** to gather information about the target FTP server and test for vulnerabilities.
 
