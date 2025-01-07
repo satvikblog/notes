@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/e-jptv-2/ftp-enumeration/","title":"FTP Enumeration - eJPTv2","tags":["ejptv2","nmap"]}
+{"dg-publish":true,"permalink":"/e-jptv-2/ftp-enumeration/","title":"FTP Enumeration - eJPTv2","tags":["ejptv2","nmap","gardenEntry"]}
 ---
 
 ### Notes: FTP Enumeration with Metasploit
